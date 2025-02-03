@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ibtida Bin Ahmed
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=36BCF7&lines=Learning+...;Competitive+Programmer;Software+Development enthusiast;AI+Enthusiast;Always+Learning!+🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=36BCF7&lines=Competitive+Programmer;Software+Development enthusiast;AI+Enthusiast;Always+Learning!+🚀)
 
 ## 🚀 About Me
 - 🎓 Undergraduate Computer Science major
