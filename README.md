@@ -5,7 +5,7 @@
 ## 🚀 About Me
 - 🎓 Undergraduate Computer Science major, in BUET CSE
 - 🏆 Competitive Programmer | Codeforces & Online Judge Enthusiast
-- ⚽ Neymar Jr. Fan | Twitch & YouTube (gschatten / ggschatten)
+- ⚽ Lionel Messi fan
 - 🛠️ Tech Stack: C, C++, Java, Python, C#, JavaScript, LaTeX, Node.js, React, MongoDB, PostgreSQL, Git
 - 📊 Tools: NumPy, Matplotlib
 
