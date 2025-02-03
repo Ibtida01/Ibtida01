@@ -7,7 +7,7 @@
 - 🏆 Competitive Programmer | Codeforces & Online Judge Enthusiast
 - ⚽ Neymar Jr. Fan | Twitch & YouTube (gschatten / ggschatten)
 - 🛠️ Tech Stack: C, C++, Java, Python, C#, JavaScript, LaTeX, Node.js, React, MongoDB, PostgreSQL, Git
-- 📊 Tools: NumPy, Matplotlib, GitHub Pages, Logisim
+- 📊 Tools: NumPy, Matplotlib
 
 ## 🔥 What I'm Currently Working On
 - 🛒 **E-commerce Project:** An eBay clone with AI-powered price prediction & bidding (Spring Boot + React + MongoDB)
