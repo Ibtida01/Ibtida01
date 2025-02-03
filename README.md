@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=36BCF7&lines=Competitive+Programmer;Software+Development+enthusiast;AI+Enthusiast;Always+Learning!+🚀)
 
 ## 🚀 About Me
-- 🎓 Undergraduate Computer Science major
+- 🎓 Undergraduate Computer Science major, in BUET CSE
 - 🏆 Competitive Programmer | Codeforces & Online Judge Enthusiast
 - ⚽ Neymar Jr. Fan | Twitch & YouTube (gschatten / ggschatten)
 - 🛠️ Tech Stack: C, C++, Java, Python, C#, JavaScript, LaTeX, Node.js, React, MongoDB, PostgreSQL, Git
