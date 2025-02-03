@@ -21,6 +21,6 @@
 
 🔥 Always learning, always building! Let's connect and collaborate!
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IbtidaBinAhmed&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ibtida01&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IbtidaBinAhmed&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ibtida01&show_icons=true&theme=radical)
