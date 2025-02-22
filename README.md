@@ -17,7 +17,6 @@
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ibtida-bin-ahmed/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/IbtidaBinAhmed)  
-[![YouTube](https://img.shields.io/badge/YouTube-gschatten-red?style=flat-square&logo=youtube)](https://www.youtube.com/@ggschatten)  
 
 🔥 Always learning, always building! Let's connect and collaborate!
 
