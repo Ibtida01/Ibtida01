@@ -10,9 +10,7 @@
 - 📊 Tools: NumPy, Matplotlib
 
 ## 🔥 What I'm Currently Working On
-- 🛒 **E-commerce Project:** An eBay clone with AI-powered price prediction & bidding (Spring Boot + React + MongoDB)
-- 🚦 **Resesarch Project:** A traffic simulator for megacity and capital, Dhaka, for smart traffic management systems and prototyping different plans for DHAKA
-- 🔍 **Deepfake Detection:** Researching ML techniques for detecting manipulated images
+- Breast cancer risk prediction PRIME+
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ibtida-bin-ahmed/)  
