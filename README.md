@@ -147,10 +147,6 @@ Machine-learning based breast cancer risk prediction system focused on healthcar
   <img src="https://gh-readme-profile.vercel.app/api?username=Ibtida01&theme=dark" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibtida01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
 ---
 
 ## 🎯 Currently Learning
