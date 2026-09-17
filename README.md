@@ -34,11 +34,11 @@ An AI/ML-based project focused on predicting breast cancer risk using machine le
 
 ---
 
-### GitHub Stats
+## GitHub Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ibtida01&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ibtida01&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ibtida01&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibtida01&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
