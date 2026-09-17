@@ -96,7 +96,7 @@ I enjoy solving algorithmic problems and regularly practice competitive programm
 
 <p align="center">
 
-<a href="https://codeforces.com/profile/Ibtida01">
+<a href="https://codeforces.com/profile/Bravo7_1">
   <img src="https://img.shields.io/badge/Codeforces-Specialist-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
 
